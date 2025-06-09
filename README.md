@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="./Server.png" alt="Minecraft Manfreddonia Banner" width="100%" />
-</p>
+<p align="center"![Server](https://github.com/user-attachments/assets/5b7dfc39-352d-45e9-9496-0f8cefcc24bf)
+>
 
 <h1 align="center">✨🌍 Minecraft 1.21.1 – Manfreddonia Modpack 🌍✨</h1>
 
-<p align="center">
+
   Un'avventura unica tra <strong>dimensioni misteriose</strong>, <strong>biomi fantastici</strong>, <strong>strutture epiche</strong> e <strong>mob personalizzati</strong>.<br>
   Esplora, combatti, costruisci… <em>o semplicemente perditi nella bellezza del mondo.</em><br>
   ⚙️ Ottimizzato con <strong>Fabric</strong> + performance mods – <strong>oltre 200 mod selezionate</strong>.
