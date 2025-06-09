@@ -1,3 +1,6 @@
+
+![Server](https://github.com/user-attachments/assets/02b026bb-7b71-4878-8b90-10cee7881da5)
+
 <h1 align="center">✨🌍 Minecraft 1.21.1 – Manfredonia Modpack 🌍✨</h1>
 
 
