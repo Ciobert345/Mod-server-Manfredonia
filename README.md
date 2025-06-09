@@ -1,5 +1,4 @@
-<p align="center"![Server](https://github.com/user-attachments/assets/5b7dfc39-352d-45e9-9496-0f8cefcc24bf)
->
+<p align="center"![Server](https://github.com/user-attachments/assets/5b7dfc39-352d-45e9-9496-0f8cefcc24bf)>
 
 <h1 align="center">✨🌍 Minecraft 1.21.1 – Manfreddonia Modpack 🌍✨</h1>
 
