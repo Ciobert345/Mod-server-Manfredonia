@@ -1,6 +1,4 @@
-<p align="center"![Server](https://github.com/user-attachments/assets/5b7dfc39-352d-45e9-9496-0f8cefcc24bf)>
-
-<h1 align="center">✨🌍 Minecraft 1.21.1 – Manfreddonia Modpack 🌍✨</h1>
+<h1 align="center">✨🌍 Minecraft 1.21.1 – Manfredonia Modpack 🌍✨</h1>
 
 
   Un'avventura unica tra <strong>dimensioni misteriose</strong>, <strong>biomi fantastici</strong>, <strong>strutture epiche</strong> e <strong>mob personalizzati</strong>.<br>
@@ -48,11 +46,11 @@
 ### 📁 Istruzioni per l’Installazione
 
 1. Installa [Fabric Loader](https://fabricmc.net/) per **Minecraft 1.21.1**
-2. Usa un launcher come **Prism**, **MultiMC** o **ATLauncher**
-3. Assicurati di avere **Java 21** e **almeno 8 GB di RAM allocati**
+2. Usa un launcher come **CurseForge**, **Modrinth** o **SKLauncher**
+3. Assicurati di avere **Java 21** e **almeno 6 GB di RAM allocati**
 4. Copia tutte le mod nella cartella `mods/`
 5. Avvia il profilo Fabric e goditi Manfreddonia! 🏞️
 
 ---
 
-<p align="center"><strong>🌟 Esplora, combatti, costruisci. Benvenuto a Manfreddonia. 🌟</strong></p>
+<p align="center"><strong>🌟 Esplora, combatti, costruisci. Benvenuto a Manfredonia. 🌟</strong></p>
